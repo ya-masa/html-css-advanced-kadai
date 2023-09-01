@@ -1,0 +1,30 @@
+body{
+  font-size: 6em;
+  text-align: center;
+}
+
+/* カウント文字 */
+.count{
+  margin: 0;
+  font-weight: bold;
+  color: #888;
+}
+
+/* テキストが表示される領域　　*/
+.wrap {
+  margin-top: 20px;
+  padding: 80px 40px 80px 40px;
+  background-color: #666;
+  font-weight: bold;
+  color: #fff;
+}
+
+/* タイプされたテキスト */
+.typed {
+  color: lightgreen;
+}
+
+/* ミスタイプの時 */
+.mistyped {
+  background-color: red;
+}
